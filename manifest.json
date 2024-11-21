@@ -1,9 +1,9 @@
 {
-    "name": "Region-Based Viewer",
-    "description": "Telegram Mini App for region-based link viewing.",
-    "short_name": "RegionViewer",
+    "name": "GitHub Fullscreen Viewer",
+    "description": "Telegram Mini App for fullscreen viewing of GitHub.",
+    "short_name": "GitHubViewer",
     "start_url": "index.html",
-    "theme_color": "#0078d7",
+    "theme_color": "#ffffff",
     "background_color": "#ffffff",
     "display": "standalone",
     "icons": [
